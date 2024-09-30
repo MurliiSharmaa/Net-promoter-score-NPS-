@@ -1,3 +1,5 @@
+![NPS img](![NPS](https://github.com/user-attachments/assets/92330cab-62a2-4573-b159-4c399ef006a9)<br>)<br>
+
 # Net-promoter-score-NPS-
 Analyze the Net promoter score (NPS) survey data
 (Net promoter score (NPS) is a market research metric that is based on a single survey question asking respondents to rate the likelihood that they would recommend a company	product, or a service to a friend or colleague)
