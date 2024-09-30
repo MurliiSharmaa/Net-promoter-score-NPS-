@@ -1,4 +1,4 @@
-![NPS img](![NPS](https://github.com/user-attachments/assets/92330cab-62a2-4573-b159-4c399ef006a9)<br>)<br>
+![NPS img]((https://github.com/user-attachments/assets/92330cab-62a2-4573-b159-4c399ef006a9)<br>)<br>
 
 # Net-promoter-score-NPS-
 Analyze the Net promoter score (NPS) survey data
